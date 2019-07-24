@@ -1,0 +1,4615 @@
+fileFormatVersion: 2
+guid: aaba42d0457b8d8448dc8359ef6ae547
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprites-LinkGreyRed_0
+    21300002: Sprites-LinkGreyRed_1
+    21300004: Sprites-LinkGreyRed_2
+    21300006: Sprites-LinkGreyRed_3
+    21300008: Sprites-LinkGreyRed_4
+    21300010: Sprites-LinkGreyRed_5
+    21300012: Sprites-LinkGreyRed_6
+    21300014: Sprites-LinkGreyRed_7
+    21300016: Sprites-LinkGreyRed_8
+    21300018: Sprites-LinkGreyRed_9
+    21300020: Sprites-LinkGreyRed_10
+    21300022: Sprites-LinkGreyRed_11
+    21300024: Sprites-LinkGreyRed_12
+    21300026: Sprites-LinkGreyRed_13
+    21300028: Sprites-LinkGreyRed_14
+    21300030: Sprites-LinkGreyRed_15
+    21300032: Sprites-LinkGreyRed_16
+    21300034: Sprites-LinkGreyRed_17
+    21300036: Sprites-LinkGreyRed_18
+    21300038: Sprites-LinkGreyRed_19
+    21300040: Sprites-LinkGreyRed_20
+    21300042: Sprites-LinkGreyRed_21
+    21300044: Sprites-LinkGreyRed_22
+    21300046: Sprites-LinkGreyRed_23
+    21300048: Sprites-LinkGreyRed_24
+    21300050: Sprites-LinkGreyRed_25
+    21300052: Sprites-LinkGreyRed_26
+    21300054: Sprites-LinkGreyRed_27
+    21300056: Sprites-LinkGreyRed_28
+    21300058: Sprites-LinkGreyRed_29
+    21300060: Sprites-LinkGreyRed_30
+    21300062: Sprites-LinkGreyRed_31
+    21300064: Sprites-LinkGreyRed_32
+    21300066: Sprites-LinkGreyRed_33
+    21300068: Sprites-LinkGreyRed_34
+    21300070: Sprites-LinkGreyRed_35
+    21300072: Sprites-LinkGreyRed_36
+    21300074: Sprites-LinkGreyRed_37
+    21300076: Sprites-LinkGreyRed_38
+    21300078: Sprites-LinkGreyRed_39
+    21300080: Sprites-LinkGreyRed_40
+    21300082: Sprites-LinkGreyRed_41
+    21300084: Sprites-LinkGreyRed_42
+    21300086: Sprites-LinkGreyRed_43
+    21300088: Sprites-LinkGreyRed_44
+    21300090: Sprites-LinkGreyRed_45
+    21300092: Sprites-LinkGreyRed_46
+    21300094: Sprites-LinkGreyRed_47
+    21300096: Sprites-LinkGreyRed_48
+    21300098: Sprites-LinkGreyRed_49
+    21300100: Sprites-LinkGreyRed_50
+    21300102: Sprites-LinkGreyRed_51
+    21300104: Sprites-LinkGreyRed_52
+    21300106: Sprites-LinkGreyRed_53
+    21300108: Sprites-LinkGreyRed_54
+    21300110: Sprites-LinkGreyRed_55
+    21300112: Sprites-LinkGreyRed_56
+    21300114: Sprites-LinkGreyRed_57
+    21300116: Sprites-LinkGreyRed_58
+    21300118: Sprites-LinkGreyRed_59
+    21300120: Sprites-LinkGreyRed_60
+    21300122: Sprites-LinkGreyRed_61
+    21300124: Sprites-LinkGreyRed_62
+    21300126: Sprites-LinkGreyRed_63
+    21300128: Sprites-LinkGreyRed_64
+    21300130: Sprites-LinkGreyRed_65
+    21300132: Sprites-LinkGreyRed_66
+    21300134: Sprites-LinkGreyRed_67
+    21300136: Sprites-LinkGreyRed_68
+    21300138: Sprites-LinkGreyRed_69
+    21300140: Sprites-LinkGreyRed_70
+    21300142: Sprites-LinkGreyRed_71
+    21300144: Sprites-LinkGreyRed_72
+    21300146: Sprites-LinkGreyRed_73
+    21300148: Sprites-LinkGreyRed_74
+    21300150: Sprites-LinkGreyRed_75
+    21300152: Sprites-LinkGreyRed_76
+    21300154: Sprites-LinkGreyRed_77
+    21300156: Sprites-LinkGreyRed_78
+    21300158: Sprites-LinkGreyRed_79
+    21300160: Sprites-LinkGreyRed_80
+    21300162: Sprites-LinkGreyRed_81
+    21300164: Sprites-LinkGreyRed_82
+    21300166: Sprites-LinkGreyRed_83
+    21300168: Sprites-LinkGreyRed_84
+    21300170: Sprites-LinkGreyRed_85
+    21300172: Sprites-LinkGreyRed_86
+    21300174: Sprites-LinkGreyRed_87
+    21300176: Sprites-LinkGreyRed_88
+    21300178: Sprites-LinkGreyRed_89
+    21300180: Sprites-LinkGreyRed_90
+    21300182: Sprites-LinkGreyRed_91
+    21300184: Sprites-LinkGreyRed_92
+    21300186: Sprites-LinkGreyRed_93
+    21300188: Sprites-LinkGreyRed_94
+    21300190: Sprites-LinkGreyRed_95
+    21300192: Sprites-LinkGreyRed_96
+    21300194: Sprites-LinkGreyRed_97
+    21300196: Sprites-LinkGreyRed_98
+    21300198: Sprites-LinkGreyRed_99
+    21300200: Sprites-LinkGreyRed_100
+    21300202: Sprites-LinkGreyRed_101
+    21300204: Sprites-LinkGreyRed_102
+    21300206: Sprites-LinkGreyRed_103
+    21300208: Sprites-LinkGreyRed_104
+    21300210: Sprites-LinkGreyRed_105
+    21300212: Sprites-LinkGreyRed_106
+    21300214: Sprites-LinkGreyRed_107
+    21300216: Sprites-LinkGreyRed_108
+    21300218: Sprites-LinkGreyRed_109
+    21300220: Sprites-LinkGreyRed_110
+    21300222: Sprites-LinkGreyRed_111
+    21300224: Sprites-LinkGreyRed_112
+    21300226: Sprites-LinkGreyRed_113
+    21300228: Sprites-LinkGreyRed_114
+    21300230: Sprites-LinkGreyRed_115
+    21300232: Sprites-LinkGreyRed_116
+    21300234: Sprites-LinkGreyRed_117
+    21300236: Sprites-LinkGreyRed_118
+    21300238: Sprites-LinkGreyRed_119
+    21300240: Sprites-LinkGreyRed_120
+    21300242: Sprites-LinkGreyRed_121
+    21300244: Sprites-LinkGreyRed_122
+    21300246: Sprites-LinkGreyRed_123
+    21300248: Sprites-LinkGreyRed_124
+    21300250: Sprites-LinkGreyRed_125
+    21300252: Sprites-LinkGreyRed_126
+    21300254: Sprites-LinkGreyRed_127
+    21300256: Sprites-LinkGreyRed_128
+    21300258: Sprites-LinkGreyRed_129
+    21300260: Sprites-LinkGreyRed_130
+    21300262: Sprites-LinkGreyRed_131
+    21300264: Sprites-LinkGreyRed_132
+    21300266: Sprites-LinkGreyRed_133
+    21300268: Sprites-LinkGreyRed_134
+    21300270: Sprites-LinkGreyRed_135
+    21300272: Sprites-LinkGreyRed_136
+    21300274: Sprites-LinkGreyRed_137
+    21300276: Sprites-LinkGreyRed_138
+    21300278: Sprites-LinkGreyRed_139
+    21300280: Sprites-LinkGreyRed_140
+    21300282: Sprites-LinkGreyRed_141
+    21300284: Sprites-LinkGreyRed_142
+    21300286: Sprites-LinkGreyRed_143
+    21300288: Sprites-LinkGreyRed_144
+    21300290: Sprites-LinkGreyRed_145
+    21300292: Sprites-LinkGreyRed_146
+    21300294: Sprites-LinkGreyRed_147
+    21300296: Sprites-LinkGreyRed_148
+    21300298: Sprites-LinkGreyRed_149
+    21300300: Sprites-LinkGreyRed_150
+    21300302: Sprites-LinkGreyRed_151
+    21300304: Sprites-LinkGreyRed_152
+    21300306: Sprites-LinkGreyRed_153
+    21300308: Sprites-LinkGreyRed_154
+    21300310: Sprites-LinkGreyRed_155
+    21300312: Sprites-LinkGreyRed_156
+    21300314: Sprites-LinkGreyRed_157
+    21300316: Sprites-LinkGreyRed_158
+    21300318: Sprites-LinkGreyRed_159
+    21300320: Sprites-LinkGreyRed_160
+    21300322: Sprites-LinkGreyRed_161
+    21300324: Sprites-LinkGreyRed_162
+    21300326: Sprites-LinkGreyRed_163
+    21300328: Sprites-LinkGreyRed_164
+    21300330: Sprites-LinkGreyRed_165
+    21300332: Sprites-LinkGreyRed_166
+    21300334: Sprites-LinkGreyRed_167
+    21300336: Sprites-LinkGreyRed_168
+    21300338: Sprites-LinkGreyRed_169
+    21300340: Sprites-LinkGreyRed_170
+    21300342: Sprites-LinkGreyRed_171
+    21300344: Sprites-LinkGreyRed_172
+    21300346: Sprites-LinkGreyRed_173
+    21300348: Sprites-LinkGreyRed_174
+    21300350: Sprites-LinkGreyRed_175
+    21300352: Sprites-LinkGreyRed_176
+    21300354: Sprites-LinkGreyRed_177
+    21300356: Sprites-LinkGreyRed_178
+    21300358: Sprites-LinkGreyRed_179
+    21300360: Sprites-LinkGreyRed_180
+    21300362: Sprites-LinkGreyRed_181
+    21300364: Sprites-LinkGreyRed_182
+    21300366: Sprites-LinkGreyRed_183
+    21300368: Sprites-LinkGreyRed_184
+    21300370: Sprites-LinkGreyRed_185
+    21300372: Sprites-LinkGreyRed_186
+    21300374: Sprites-LinkGreyRed_187
+    21300376: Sprites-LinkGreyRed_188
+    21300378: Sprites-LinkGreyRed_189
+    21300380: Sprites-LinkGreyRed_190
+    21300382: Sprites-LinkGreyRed_191
+    21300384: Sprites-LinkGreyRed_192
+    21300386: Sprites-LinkGreyRed_193
+    21300388: Sprites-LinkGreyRed_194
+    21300390: Sprites-LinkGreyRed_195
+    21300392: Sprites-LinkGreyRed_196
+    21300394: Sprites-LinkGreyRed_197
+    21300396: Sprites-LinkGreyRed_198
+    21300398: Sprites-LinkGreyRed_199
+    21300400: Sprites-LinkGreyRed_200
+    21300402: Sprites-LinkGreyRed_201
+    21300404: Sprites-LinkGreyRed_202
+    21300406: Sprites-LinkGreyRed_203
+    21300408: Sprites-LinkGreyRed_204
+    21300410: Sprites-LinkGreyRed_205
+    21300412: Sprites-LinkGreyRed_206
+    21300414: Sprites-LinkGreyRed_207
+    21300416: Sprites-LinkGreyRed_208
+    21300418: Sprites-LinkGreyRed_209
+    21300420: Sprites-LinkGreyRed_210
+    21300422: Sprites-LinkGreyRed_211
+    21300424: Sprites-LinkGreyRed_212
+    21300426: Sprites-LinkGreyRed_213
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40866c561e84a240968ed00d0ebcf44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26138bbdb41e7b241b9321c2d47a7494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab23139a8dd2404ba736cc574d7b467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfe47aa685014c439fce66eb6b3cd3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdb673dde31862428026150ac81b9af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897bfac2e54ac314c9ed86234e32b929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d1f82df731e24abe31c190a416909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70cd6cf2c92c5045871a73c3c12a9f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 606
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0394320fe7914a91542f0fcdaf1cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0727518245ad41a2fe41c7b953e9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 604
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24069066fce35849a47a9ced06b421a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 604
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59175ae3cc7dd4c83f711c3eb8701b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 604
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5d02bc1dff23241af76cd4abbbc2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_13
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 582
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228d05b17bd13e42ba8df29ec6d19d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e840713ba1fa44b893b5d412a8920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_15
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 574
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b93c96a62a5774cbde0c645cfb945a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_16
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 574
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115135eb42c67446bbb7c99e51be064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 574
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fbedb1c49aec04f8d96811cbd70b94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 574
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03912a20a57474c449216d3bfd96c9d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 574
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7723e083b102d24e989043e4f01b3d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_20
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 574
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed43bad0dcde03f4baac87957e040fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_21
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4f01231f6ecca4795e536d93c96c9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44941d5366feb4eb2f8a68561eb172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_23
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d246fcdf580f787418290e6f50cd65f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_24
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 590
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35983aa40086cce42829adf43ad6a8c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_25
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa5e138d6477c4c93f9448ece67943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 592
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8523b115a1b1e647b7781e84cf4c8c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f975be19ca1918640b79b19105d39a6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_28
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a35a4aff3b9158429f79beb895f0c40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_29
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 590
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cf342bfcb7571478edd3f2f7e0fb36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 590
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bee8d5e055d11241aa20f6a3ab0772e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 584
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac897cee5347df4f8b36856d83bccee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_32
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 520
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5071aecd1175d429002581c6780e6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_33
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc473aed0c3dd4f44af97cd9ac4e1b63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d693b7fd79c8def4f817201fa15cbc35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72408bf4de10d4469cf6a5a0718ea68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_36
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5c8688f41e314885e19b62f7bebf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989b915593a945541833fc023b176ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7768250895b564242b9d5d10ee74f809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_39
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff38c08b50ae0e4e8dc6bbf74119d6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4b44e52237884468839850678a762f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 560
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6275426429664d41bd020bd41b24eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_42
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 540
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e6457a97038d44fb780e97e87fb1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 540
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d65cf13563604f9049baa7b8f6e0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_44
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 540
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e1234a58c950d419be0c279b25afb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 540
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205f7035de52a24c8379dcf9de98607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_46
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 544
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54f636cb0e04d7478a62699bf894923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 540
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa15de027f2cbba4a92b48c04b67cef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_48
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 542
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f009f9c20848e9e4a8bf1ec81530a1e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 520
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047187d16a03d0e4696b93933839ec90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 520
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b22e1174c9bf3945bf876be2ab9fe45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_51
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e71d2dda011ccb4ebd339381fb4900a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_52
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 520
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5cc16926dd7134bac969bd3708cdca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_53
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29bc8cc91f064d4bbc1b92bcd140752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 520
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f6ff0e482cfc543bec6d7deaf54490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_55
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cafc9df72ad2847b4b37afe8320102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_56
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 520
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19481da804575d44f99a7ca6e9b2a79c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_57
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 520
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82184c452522ac9478456cce41ca3b38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_58
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 522
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920bc9b49823b3d41a69e3a431d687b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 522
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acba214ecab8aa345aeb79aee39ff23c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_60
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 522
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051c8676064954247ace972ba5969d3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_61
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce6273ddc4fd84eb440969009999ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96ad432d0406714a8967247fed05a61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_63
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0f0b6e98ed49f4889aae3eac9088c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bb8dcca08cbb0478b2e6f250b0e62b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_65
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e575e9a6e073e194f9385d914b709df4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_66
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 504
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134f4361336f14045b0635140196cd08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_67
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 506
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f78174bf1cec04c8cbe6370779e0d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 500
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62acb683ece94c64b8c7c5c050efdaee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a00a922370603340961dd228243a8bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_70
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 500
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c756e455ba206f44a8adb1de8bc5ca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd33251b6e57cb41b1258e316be960c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_72
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39bc658959b904459d6c064351b4d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777622e79fa79c84bbfed25b2ff1d7b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_74
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265fbfc7e62dd54ba1369fe1f17d39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_75
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346c732f89d14664296d61139444aff2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_76
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 500
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8657c4ebfd9c0da4a9864f89620fcebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_77
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 500
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9c3f87256a144dac2d5a35729134b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_78
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 500
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f50a58c7618eed4698ef56c740e8d91
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_79
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 430
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc748c51fc9518645b5a77a8cc00fe84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 430
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaff82297f473040841f396989b6f6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 430
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213d661a3413ab4183a25317b1abbeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_82
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 430
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988b063987118524a9e00e5f9902ae9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_83
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 430
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6f499a2092624a9af2d84e36738b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 430
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9003c26fc36c3e469ca3db8514f9494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_85
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 430
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff3d782c126ab40aa889758dc9a5eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_86
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 430
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607822aeb39544d43851593d29f60c54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_87
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 430
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e58d977d5c5e0a4b8142fd92f459190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_88
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 430
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e29e9aa8327341a058461100ec870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_89
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 430
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d34a213ee9396345ba8d57118447f0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_90
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 430
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b669726fc4f164ba757364075579b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_91
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 464
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3c959fd352494da1008c884821fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_92
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 464
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff22796911be644986ad42edae77be2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_93
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 464
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6d90f264d11644b44d3106d1e3e5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_94
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 464
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b29a1c1b99ad149936f8e14acdcdae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_95
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 470
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30c39604579e96419e0fbf524abb8e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_96
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 430
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc9d9cb5434694f960a7f189755ca8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_97
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 424
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9477773dfb4863a4dbe970e2587e183f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_98
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 426
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba826db8844a33849a78f728a73c45f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_99
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 426
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffb813899918e445bff328ab3bddf4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_100
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 440
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29787945046c2704a9495c6ef7acee1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_101
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 440
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4716cadc3f82d429d4b37bfb7ac39e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 360
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc16dd0f6f7919344a1dbfa168afacd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_103
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 360
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0215ddc41b45003439b5f05a747543ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_104
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 360
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb600941608bf41850ad03539816d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_105
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 360
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3989ab42d5b5ad249badf6af8acb9e39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_106
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 360
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744b6d0dd54f79b4b98e485df9b6a3ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_107
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 360
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b0d188c1750464e95b9c771342c344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_108
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 360
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874559c554932e14bb442d26f8a72abc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_109
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 360
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e48cd42a517f6b48a5d319513158c63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 360
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff782e8094313b40b38e4d1b7c14a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cabe460f9b8474ba0abd9e529b1bbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_112
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cc4616348e04a498fa55a63244f641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_113
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 360
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63dc18e78db2d64f8d4635ad7d3ce57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d53c17d9d093a47a1e11a9a4bd85fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8798791e7573a494ab7bd28d13d86b82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_116
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 340
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc24430915e5fc45b5b9d587d87e316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 270
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cd85a46899dee459680d864a774711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 270
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f56ac246c9be984f825dbfc3d623e38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_119
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 270
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae6547a1dff0341b84fcbf3a019757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_120
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 270
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1834b659a435a4a9f4221a1dcb1d37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_121
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 270
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4015ffc86727d214fb673a7c8eabe547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_122
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 270
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b569d08a00884497d6ff6990ae237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_123
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 270
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08aa83a43950ca845b125274f75954b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_124
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 270
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab2de757a66cd54b9d3b0078f3489b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_125
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 270
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afdd9e2f216b8748b0d5c598711a6ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_126
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 270
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767d552d912e5147a5e1e54a350fd14
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_127
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 270
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ae4848fe817a84cb1825fd2588c31d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_128
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 270
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a414e803d7e4604cb2dd2feee0ae6d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_129
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8723dcd3d997f4689bf48626ec0e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92afc198646558c43a15d39148125268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dbee52a00aaa04cab9069e54807eb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_132
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82cf56b2df6d24ba0e7c5af956654c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_133
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730b660d4cdfc6e40ae03933cae60933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_134
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d769ca1d5f020e468416510306e60f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_135
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 244
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6ba92325f95cc428b26ef5085924d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_136
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 246
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760cdc5e0c08cbd419793216be5a17a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 244
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2788978093c83db4ba5f2c61f778084a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_138
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae98597ad15497e4ea713f0007344d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_139
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8352dbad7c86e142bf1d790df587cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_140
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf322c8bb2422874982affaad490f6ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_141
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa7299faf4d37945957a290b9f962b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_142
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2d7dd3369704644b5d3d89ebbae07e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_143
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb436729b0d6e9b46a9124a45ca68e6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_144
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c5c7097887121488885466eb31adc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_145
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f67ee8bc7420594aa4b7c1dff0de931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_146
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88eb462964688844281724e740d1f4aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_147
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e253a367f09d91a4ea47218fdd8ec8b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_148
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5bcb7cb74eb754db9494058390be1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_149
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194220ab1fe9d544a8fa1dceab5d6c7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_150
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec346da07b369146af27cdaef2c67d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_151
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 246
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6905e920f615f6c4a900a5949b09587f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_152
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 248
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631974182811ad9468856ebff0e73aa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_153
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 240
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514785f0df0177489c362e044d8b3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_154
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 256
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfa79fb384325140ab31da0330f8c9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_155
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731dfa6e30951c4ea9fb8dadefae000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e0bf1162066a4c8cf29a8bc377fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_157
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 250
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18173c15041299c4c845a412047dd247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_158
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cfc13dd5d67e54e88015a862040553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_159
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7174a31f2178a45b64e283c06b6461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_160
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 250
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4e671c28cc50d4489c98998bd1c1f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_161
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 250
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313b8e87705284448adc3f81cd0f732d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_162
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 252
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c282c2e9d187249871986ab186cca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_163
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 172
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1db9f19ad8ae8e4ca039ef9171e1892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_164
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 172
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e0fb126b747945b4e77cd490f15a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_165
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 172
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b0b8cfed40ca54094028682cadb681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_166
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 172
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06631d0ae91dd2342a6d2ee7aa5390bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_167
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 172
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d10afcf8e4f7b468c108a898e42a8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_168
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 172
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa3ac032e1b86499630a4e94fd9432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_169
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 172
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab262c9f48024cd4ab279a3b206e6426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_170
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 172
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa39841cafaeb4b9cae1eb7fce1ad0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_171
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 170
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6e3a9d528e671449caaad42ad3b41b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_172
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 170
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4be357ff6e61e4e8d151fe6b52536d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_173
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 170
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6076afa9995d7624795777dad266da94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_174
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 182
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9a709fde9e7794fa395bae24539586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_175
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 182
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e1b1744a4ea240b079a2df75ad29c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_176
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 102
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1f2e9fdbbcf349a8fbca858f4b049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_177
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 102
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e437685cb4470d43a59e20858023d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_178
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 102
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94acc733295315e409af6a3c6bd52774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_179
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1346152fea966d45ba3a0dd91059510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_180
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 102
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c2c5353643a6c4288f20bb36f49b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_181
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 102
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42e36c4c0eb5e49a25773eb1036bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_182
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 102
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea98667cc9c6b429541c8f476eeef3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_183
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a76e01ba08bad2478d7ee6d089b7b9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_184
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2163d8e6d51dd4f42a1d32f3ccf74eae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_185
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 152
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f7ffe0fabb7cc43b6f7c69b4e7f1ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_186
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 152
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d8e0e8a7e1d41458ff47ba65f5d142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_187
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 90
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c6b522b19d7a14294f8ab978da9e6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_188
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 116
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829bb2ade596f9347b3d719bc7e3eb99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_189
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 84
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77666860b24b39d45bafd51c272cdd11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_190
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 84
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be258628c8ec408499fc4e5c2f76ef96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_191
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 90
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5911040c8333a0e40bc22a96a94c23d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_192
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 90
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf96487b4a2ee4fa444d30d0a37953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_193
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f38de0331c7f479825b2c012e2769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_194
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49751670d2b367940a5a9b7e826b3e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_195
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0fd8ee2319bcb4fa72f94edff7d688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_196
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646adba2e2f8b1e42b6bf2c11dedd6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_197
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ef2c12ee6c13e4eb2099d8cd17c67e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_198
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e45d92cb8d19f45bd48ed6de155f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_199
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c69a4de74020fb41bf71e9ae3fb97e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_200
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4edeb91553d3049a0fc79140d3b97e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_201
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 82
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd4e1debf5f0a2449f892eb01d36d65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_202
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4367f4963a0c6646a6c5e548ff28bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_203
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c3405f9aa71c94cb40bacfc9ece3c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_204
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 12
+        width: 80
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442fdef1f494c28438823999c40b1b69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_205
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 12
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab651ecc8ae11642820445211ade550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_206
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 28
+        width: 12
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57afb8a633cc9a740868d2295e0b290c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_207
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 28
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adaa747e214be4a4a971345f2ca963be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_208
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 36
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab65a152433ed84798c521c2c41ed99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_209
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 12
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fa0619da7b9da4fa431928166265d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_210
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 12
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3616ce3a8085521499a2360d336ef658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_211
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 12
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86be8caac44fb9041947dc2e2d2180d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_212
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 12
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5223bb29d0528a14e8202917666501e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites-LinkGreyRed_213
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 10
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a401bc5a84350498463e05286735ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 44e4833d68251664bb9f7e7e237cae83
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
